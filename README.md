@@ -6,4 +6,4 @@ Data Science &amp; Analytics Portfolio
 * Wordcloud
 * Predicitve analysis
 
-<img src="/images/wordcloud.png" alt="drawing" width="200"/>
+<img src="/images/wordcloud.png" alt="drawing" width="400"/>
