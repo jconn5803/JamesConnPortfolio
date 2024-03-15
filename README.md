@@ -5,3 +5,5 @@ Data Science &amp; Analytics Portfolio
 * Created a LDA model
 * Wordcloud
 * Predicitve analysis
+
+![](https://github.com/jconn5803/jconn5803.github.io/blob/main/images/wordcloud.png)
