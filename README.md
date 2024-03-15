@@ -12,7 +12,9 @@ Data Science &amp; Analytics Portfolio
 
 
 
-<p float="left">
-  <img src="/images/wordcloud.png" alt="Word Cloud" width="400"/>
-  <img src="/images/wordsgraph.png" alt="Words Graph" width="400"/>
-</p>
+<table>
+  <tr>
+    <td><img src="/images/wordcloud.png" alt="Word Cloud" width="400"/></td>
+    <td><img src="/images/wordsgraph.png" alt="Words Graph" width="400"/></td>
+  </tr>
+</table>
