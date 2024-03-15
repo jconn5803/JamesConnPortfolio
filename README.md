@@ -6,4 +6,4 @@ Data Science &amp; Analytics Portfolio
 * Wordcloud
 * Predicitve analysis
 
-![](https://github.com/jconn5803/jconn5803.github.io/blob/main/images/wordcloud.png)
+![](/images/wordcloud.png)
