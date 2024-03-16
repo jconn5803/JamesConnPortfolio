@@ -1,5 +1,4 @@
-# James Conn
-Data Science &amp; Analytics Portfolio
+# James Conn Data Science &amp; Analytics Portfolio
 
 # [Project 1 - British Airways Data](https://github.com/jconn5803/BritishAirwaysData)
 * Web Scraping for Content Collection: Implement web scraping techniques to gather text data from specified online sources, efficiently collecting a rich dataset for analysis.
